@@ -18,6 +18,7 @@ My latest posts:
 </p>
 
 ## Fun facts 🥳
-* Next to technology, I love to do some sports in my free time :mountain_bicyclist: 🏃‍♂️ 
-* From time to time, I take my 🎸 and start to jam!
+* Next to technology, I love to do sports in my free time :mountain_bicyclist: 🏃‍♂️ 
+* From time to time, I take my 🎸 and start to jam 🎵
+* I ♥️ nature, I passionately grow my own 🍇 and process them into 🍷
 * To ease the mind I do like to read some fiction and non fiction books 🤓 and play some ♟️

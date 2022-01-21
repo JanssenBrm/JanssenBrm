@@ -25,4 +25,4 @@ My latest posts:
 
 ## Projects 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=winery)](https://github.com/janssenbrm/winery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=winery&theme=dark)](https://github.com/janssenbrm/winery)

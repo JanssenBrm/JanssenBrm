@@ -1,4 +1,4 @@
-# Hi, Bram Janssen here! 👋 👨‍💻
+<h1 align="center">Hi, Bram Janssen here! 👋 👨‍💻</h1>
 <h4 align="center">Full stack FTW!</h4>
 
 I am a full stack software engineer with a very big passion for technology in general. I love to experiment with different languages and frameworks, usually with a main focus on web related frameworks, such as Angular, React, NodeJS, Express, NestJS,... This usually results in some interesting side projects. Feel free to look around and give me a shout on Twitter [@_bramjanssen](https://twitter.com/_bramjanssen). 

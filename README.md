@@ -15,13 +15,12 @@ My latest posts:
 * I ♥️ nature, I passionately grow my own 🍇 and process them into 🍷
 * To ease the mind I do like to read some fiction and non fiction books 🤓 and play some ♟️
 
-## Connect with me! :earth_africa:
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/_bramjanssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_bramjanssen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/janssenbram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janssenbram" height="30" width="40" /></a>
 <a href="https://instagram.com/_bram_janssen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bram_janssen_" height="30" width="40" /></a>
 <a href="https://medium.com/@brm-janssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brm-janssen" height="30" width="40" /></a>
-</p><br />
+</p>
 
 ## Projects 
 

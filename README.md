@@ -23,8 +23,6 @@ My latest posts:
 </p>
 
 ## Projects 
-<div style="flex">
 [![Readme Card - Vineyards](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=vineyards&theme=dark)](https://github.com/janssenbrm/vineyards)
 
 [![Readme Card - Geotoolkit](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=geotoolkit&theme=dark)](https://github.com/janssenbrm/geotoolkit)
-  </div>

@@ -24,5 +24,9 @@ My latest posts:
 <a href="https://medium.com/@brm-janssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brm-janssen" height="30" width="40" /></a>
 </p>
 
+## Languages
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=janssenbrm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects 
 [![Readme Card - Vineyards](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=vineyards&theme=dark)](https://github.com/janssenbrm/vineyards) [![Readme Card - Geotoolkit](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=geotoolkit&theme=dark)](https://github.com/janssenbrm/geotoolkit)  [![Readme Card - Pi Radio](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=pi_radio&theme=dark)](https://github.com/janssenbrm/pi_radio)

@@ -5,6 +5,11 @@
 
 I am a full stack software engineer with a very big passion for technology in general. I love to experiment with different languages and frameworks, usually with a main focus on web related frameworks, such as Angular, React, NodeJS, Express, NestJS,... This usually results in some interesting side projects. Feel free to look around and give me a shout on Twitter [@_bramjanssen](https://twitter.com/_bramjanssen). 
 
+<p align="center">
+  <br />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janssenbrm&theme=dark&hide=jupyter%20notebook,html,scss,css&layout=compact" />
+</p>
+  
 ## Blog post
 Lately I have also started sharing the results of my experiments on Medium. I am still starting this up, but I really like to share the things I've learned in my different side projects. My post are shared on my Medium account, [brm-janssen](https://brm-janssen.medium.com/). 
 
@@ -23,10 +28,6 @@ My latest posts:
 <a href="https://instagram.com/_bram_janssen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bram_janssen_" height="30" width="40" /></a>
 <a href="https://medium.com/@brm-janssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brm-janssen" height="30" width="40" /></a>
 </p>
-
-## Languages
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=janssenbrm&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 
 [![Readme Card - Vineyards](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=vineyards&theme=dark)](https://github.com/janssenbrm/vineyards) [![Readme Card - Geotoolkit](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=geotoolkit&theme=dark)](https://github.com/janssenbrm/geotoolkit)  [![Readme Card - Pi Radio](https://github-readme-stats.vercel.app/api/pin/?username=janssenbrm&repo=pi_radio&theme=dark)](https://github.com/janssenbrm/pi_radio)
